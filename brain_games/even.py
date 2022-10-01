@@ -3,9 +3,9 @@ from random import randint
 
 
 def even():
+    correct_answer_counter = 0
     name = prompt.string('May I have your name? ')
     print(f'Hello, {name}!')
-    correct_answer_counter = 0
     print('Answer "yes" if the number is even, otherwise answer "no".')
     while correct_answer_counter < 3:
         random_number = randint(1, 100)
