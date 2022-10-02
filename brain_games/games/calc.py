@@ -9,6 +9,7 @@ OPERATORS = {
     "*": operator.mul
 }
 
+
 def get_question():
     number1 = randint(1, 10)
     number2 = randint(1, 40)
@@ -16,4 +17,3 @@ def get_question():
     question = f'{number1} {random_operator} {number2}'
     correct_answer = str(OPERATORS[random_operator](number1, number2))
     return question, correct_answer
-
