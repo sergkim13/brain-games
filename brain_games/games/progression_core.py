@@ -8,7 +8,7 @@ def get_question():
     progression = []
     progression_length = randint(6, 15)
     progression_start = randint(1, 20)
-    progression_step = randint(1,5)
+    progression_step = randint(1, 5)
     for _ in range(progression_length):
         progression.append(progression_start + _ * progression_step)
     picked_number = choice(progression)
