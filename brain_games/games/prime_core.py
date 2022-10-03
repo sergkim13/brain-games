@@ -1,7 +1,8 @@
-from random import randint, choice
+from random import randint
 
 
 game_task = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+
 
 def isprime(value):
     value = int(value)
@@ -11,6 +12,7 @@ def isprime(value):
         if value % i == 0:
             return False
     return True
+
 
 def get_question():
     question = randint(1, 100)

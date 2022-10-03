@@ -2,7 +2,7 @@
 from brain_games.games.engine import (
     greeter, welcome_user, print_game_task, start_game
 )
-from brain_games.games.prime_core import game_task, get_question, isprime
+from brain_games.games.prime_core import game_task, get_question
 
 
 def main():
