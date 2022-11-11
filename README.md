@@ -9,17 +9,13 @@ Welcome to the Brain-games. There are five games you can play. Watch games demo 
 Made by Kim Sergey as the first project in Hexlet course of Python.
 
 ### Requirements:
-1. MacOS / Linux
-2. Poetry
+MacOS / Linux
 
 ### Install: 
-1. Make sure you have Poetry installed on your computer.
-If you have not, type:
-`curl -sSL https://install.python-poetry.org | python3 -` (works for Linux, macOS, Windows (WSL))
-2. Clone repository:
+1. Clone repository:
 `$ git clone https://github.com/sergkim13/python-project-49.git`
 2. Type:
- `install brain-games`
+ `make package-install`
 
 ### Manual:
 To play game type one of the list: 
