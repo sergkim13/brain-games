@@ -1,8 +1,6 @@
 # Brain-games
 
-### Hexlet tests and linter status:
 [![Actions Status](https://github.com/sergkim13/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/sergkim13/python-project-49/actions)
-
 [![Maintainability](https://api.codeclimate.com/v1/badges/b70296ec8ba01ee0e1ea/maintainability)](https://codeclimate.com/github/sergkim13/python-project-49/maintainability)
 
 ### Description:
@@ -28,7 +26,7 @@ To play game type one of the list:
 
 ### Demonstraion
 
-[![asciicast](https://asciinema.org/a/UCoTZTHEWOlqcy0zrZVi9y4nr.svg)](https://asciinema.org/a/UCoTZTHEWOlqcy0zrZVi9y4nr)
+[![asciicast](https://asciinema.org/a/UCoTZTHEWOlqcy0zrZVi9y4nr.svg)](https://asciinema.org/a/UCoTZTHEWOlqcy0zrZVi9y4nr?autoplay=1)
 
 [![asciicast](https://asciinema.org/a/SP4FP9SSlvMbST9Fx8Wu4shcF.svg)](https://asciinema.org/a/SP4FP9SSlvMbST9Fx8Wu4shcF)
 
