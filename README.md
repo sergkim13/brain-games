@@ -26,7 +26,7 @@ To play game type one of the list:
 
 ### Demonstraion
 
-[![asciicast](https://asciinema.org/a/UCoTZTHEWOlqcy0zrZVi9y4nr.png)](https://asciinema.org/a/UCoTZTHEWOlqcy0zrZVi9y4nr)
+[![asciicast](https://asciinema.org/a/UCoTZTHEWOlqcy0zrZVi9y4nr.svg)](https://asciinema.org/a/UCoTZTHEWOlqcy0zrZVi9y4nr)
 
 [![asciicast](https://asciinema.org/a/SP4FP9SSlvMbST9Fx8Wu4shcF.svg)](https://asciinema.org/a/SP4FP9SSlvMbST9Fx8Wu4shcF)
 
